@@ -56701,7 +56701,7 @@
                     e.blob().then(function (e) {
                       var t = n.window.document.createElement("a");
                       (t.href = n.window.URL.createObjectURL(e)),
-                        (t.download = "jaygroupplc-catalog.pdf"),
+                        (t.download = "tjayinternational-catalog.pdf"),
                         n.window.document.body.appendChild(t),
                         t.click(),
                         n.window.document.body.removeChild(t);
