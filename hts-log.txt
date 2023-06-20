@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 26 May 2023 22:49:23 at /en +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" /en -O1 "C:\My Web Sites\canwood" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:52:59	Error: 	"Bad Request" (400) at link #/gtm.js?id= (from /en)
+22:52:59	Warning: 	Moved Permanently for /
+22:52:59	Warning: 	File has moved from / to /en
+23:03:27	Error: 	"Not Found" (404) at link /media/cache/resolve/wohnart_thumbnail_vertical/uploads/media/5cb719f577a16/5ef085be45b49.jpg (from /en/projects/perfect-119e-cube)
+23:03:27	Error: 	"Not Found" (404) at link /media/cache/resolve/wohnart_thumbnail_horizontal/uploads/media/5cb719f63f482/5ef085bbb66ec.jpg (from /en/projects/perfect-119e-cube)
+23:03:27	Error: 	"Not Found" (404) at link /media/cache/resolve/wohnart_thumbnail_horizontal/uploads/media/5cb719f734a90/5ef085b886cdf.jpg (from /en/projects/perfect-119e-cube)
+23:03:27	Error: 	"Not Found" (404) at link /media/cache/resolve/wohnart_thumbnail_horizontal/uploads/media/5c2493c2860ee/5ef1dd8a2c5d9.jpg (from /en/projects/perfect-148e)
+23:03:27	Error: 	"Not Found" (404) at link /media/cache/resolve/wohnart_thumbnail_horizontal/uploads/media/5cb717f25ac3d/5ef0859b7772c.jpg (from /en/projects/perfect-167e)
+23:03:27	Error: 	"Not Found" (404) at link /media/cache/resolve/wohnart_thumbnail_horizontal/uploads/media/5cb717f2ef637/5ef0859e95dd4.jpg (from /en/projects/perfect-167e)
+23:03:27	Error: 	"Not Found" (404) at link /media/cache/resolve/wohnart_thumbnail_horizontal/uploads/media/5cb717f0c91b0/5ef085a5e37c1.jpg (from /en/projects/perfect-167e)
+23:10:48	Error: 	"Not Found" (404) at link https:///"https://////en//wohnart///" (from /en/wohnart/?projectId=232)
+23:10:48	Error: 	"Not Found" (404) at link https:///"//frontend//assets//images//wohnart-og-c963ce94c8.png/" (from /en/wohnart/?projectId=232)
+23:13:33	Error: 	"Not Found" (404) at link /media/cache/resolve/gallery_item_bigger/ (from /en/gallery/park-151w-v8)
+23:17:44	Error: 	"Not Found" (404) at link /en/gallery/perfect-144 (from /en/gallery?pageNumber=8)
+23:18:08	Error: 	"Not Found" (404) at link /en/gallery/point-120-10 (from /en/gallery?pageNumber=15)
+
+HTTrack Website Copier/3.49-2 mirror complete in 29 minutes 58 seconds : 4123 links scanned, 4108 files written (290998725 bytes overall) [262669955 bytes received at 146090 bytes/sec], 78055980 bytes transferred using HTTP compression in 660 files, ratio 60%, 32.1 requests per connection
+(13 errors, 2 warnings, 0 messages)

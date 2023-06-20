@@ -1,0 +1,84 @@
+[30-May-2023 04:29:57 UTC] PHP Warning:  Undefined variable $con in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 04:29:57 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php:62
+Stack trace:
+#0 /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php(62): mysqli_query()
+#1 {main}
+  thrown in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 04:30:00 UTC] PHP Warning:  Undefined variable $con in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 04:30:00 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php:62
+Stack trace:
+#0 /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php(62): mysqli_query()
+#1 {main}
+  thrown in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 04:30:01 UTC] PHP Warning:  Undefined variable $con in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 04:30:01 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php:62
+Stack trace:
+#0 /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php(62): mysqli_query()
+#1 {main}
+  thrown in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 04:30:22 UTC] PHP Warning:  Undefined variable $con in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 04:30:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php:62
+Stack trace:
+#0 /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php(62): mysqli_query()
+#1 {main}
+  thrown in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 04:32:11 UTC] PHP Warning:  Undefined variable $con in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 04:32:11 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php:62
+Stack trace:
+#0 /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php(62): mysqli_query()
+#1 {main}
+  thrown in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 04:33:24 UTC] PHP Warning:  Undefined variable $con in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 04:33:24 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php:62
+Stack trace:
+#0 /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php(62): mysqli_query()
+#1 {main}
+  thrown in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 04:47:55 UTC] PHP Warning:  Undefined variable $con in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 04:47:55 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php:62
+Stack trace:
+#0 /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php(62): mysqli_query()
+#1 {main}
+  thrown in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 04:48:01 UTC] PHP Warning:  Undefined variable $con in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 04:48:01 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php:62
+Stack trace:
+#0 /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php(62): mysqli_query()
+#1 {main}
+  thrown in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 04:48:02 UTC] PHP Warning:  Undefined variable $con in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 04:48:02 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php:62
+Stack trace:
+#0 /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php(62): mysqli_query()
+#1 {main}
+  thrown in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 04:48:02 UTC] PHP Warning:  Undefined variable $con in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 04:48:02 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php:62
+Stack trace:
+#0 /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php(62): mysqli_query()
+#1 {main}
+  thrown in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 05:01:49 UTC] PHP Warning:  Undefined array key "land_owner" in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 40
+[30-May-2023 05:01:49 UTC] PHP Warning:  Undefined array key "have_drawing" in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 45
+[30-May-2023 05:01:49 UTC] PHP Warning:  Undefined array key "have_permission" in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 46
+[30-May-2023 05:01:49 UTC] PHP Warning:  Undefined array key "agree" in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 55
+[30-May-2023 05:01:49 UTC] PHP Warning:  Undefined array key "subscribe" in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 56
+[30-May-2023 05:01:49 UTC] PHP Warning:  Undefined variable $con in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 05:01:49 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php:62
+Stack trace:
+#0 /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php(62): mysqli_query()
+#1 {main}
+  thrown in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 05:01:53 UTC] PHP Warning:  Undefined array key "land_owner" in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 40
+[30-May-2023 05:01:53 UTC] PHP Warning:  Undefined array key "have_drawing" in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 45
+[30-May-2023 05:01:53 UTC] PHP Warning:  Undefined array key "have_permission" in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 46
+[30-May-2023 05:01:53 UTC] PHP Warning:  Undefined array key "agree" in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 55
+[30-May-2023 05:01:53 UTC] PHP Warning:  Undefined array key "subscribe" in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 56
+[30-May-2023 05:01:53 UTC] PHP Warning:  Undefined variable $con in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[30-May-2023 05:01:53 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php:62
+Stack trace:
+#0 /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php(62): mysqli_query()
+#1 {main}
+  thrown in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 62
+[01-Jun-2023 09:25:48 UTC] PHP Warning:  Undefined array key "subscribe" in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 32
+[01-Jun-2023 09:25:48 UTC] PHP Warning:  Undefined array key "subscribe" in /home/jvglgksy/canwood.jvglobalchems.com/en/order-catalogue/order_confirm.php on line 32
