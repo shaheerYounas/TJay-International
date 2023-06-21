@@ -43142,12 +43142,12 @@
         Le = "flash-template";
       Se.register({ id: Re, data: _e() }),
         Se.register({ id: Le, data: Ae() }),
-        (window.DANWOOD = window.DANWOOD || {});
+        (window.TJAY-INTERNATIONAL = window.TJAY-INTERNATIONAL || {});
       var Ne = new ge({
         popupContainerTemplate: Re,
         popupTemplate: Le,
         templateParser: Se.render,
-        initialPopups: window.DANWOOD.flashMessages || [],
+        initialPopups: window.TJAY-INTERNATIONAL.flashMessages || [],
         animationTime: je,
         closeTriggerSelector: "[data-flash-card-close-trigger]",
         activeClass: "-is-active",
@@ -46014,7 +46014,7 @@
         return r;
       }
       var tn = H("modalAnimationTime");
-      window.DANWOOD = window.DANWOOD || {};
+      window.TJAY-INTERNATIONAL = window.TJAY-INTERNATIONAL || {};
       var nn = "data-modal-template",
         rn = "data-modal-trigger",
         on = "modal-container-template";
