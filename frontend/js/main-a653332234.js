@@ -47051,7 +47051,7 @@
           );
         })(),
         ir = new rr(sn);
-      window.DANWOOD.modalGallery = ir;
+      window.TJAY-INTERNATIONAL.modalGallery = ir;
       var or = "-is-active",
         ar = "cookies-accepted",
         sr = {
