@@ -46902,9 +46902,9 @@
               (this.galleries = new Map()),
               (this.onTriggerClick = this.onTriggerClick.bind(this)),
               (this.register = this.register.bind(this)),
-              (window.DANWOOD = window.DANWOOD || {}),
-              (window.DANWOOD.modalGallery = window.DANWOOD.modalGallery || []),
-              window.DANWOOD.modalGallery.forEach(this.register),
+              (window.TJAY-INTERNATIONAL = window.TJAY-INTERNATIONAL || {}),
+              (window.TJAY-INTERNATIONAL.modalGallery = window.TJAY-INTERNATIONAL.modalGallery || []),
+              window.TJAY-INTERNATIONAL.modalGallery.forEach(this.register),
               this.attachTriggers(window.document.body);
           }
           var t, n;
