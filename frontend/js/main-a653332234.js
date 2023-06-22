@@ -43142,12 +43142,12 @@
         Le = "flash-template";
       Se.register({ id: Re, data: _e() }),
         Se.register({ id: Le, data: Ae() }),
-        (window.TJAY-INTERNATIONAL = window.TJAY-INTERNATIONAL || {});
+        (window.DANWOOD = window.DANWOOD || {});
       var Ne = new ge({
         popupContainerTemplate: Re,
         popupTemplate: Le,
         templateParser: Se.render,
-        initialPopups: window.TJAY-INTERNATIONAL.flashMessages || [],
+        initialPopups: window.DANWOOD.flashMessages || [],
         animationTime: je,
         closeTriggerSelector: "[data-flash-card-close-trigger]",
         activeClass: "-is-active",
@@ -46014,7 +46014,7 @@
         return r;
       }
       var tn = H("modalAnimationTime");
-      window.TJAY-INTERNATIONAL = window.TJAY-INTERNATIONAL || {};
+      window.DANWOOD = window.DANWOOD || {};
       var nn = "data-modal-template",
         rn = "data-modal-trigger",
         on = "modal-container-template";
@@ -46902,9 +46902,9 @@
               (this.galleries = new Map()),
               (this.onTriggerClick = this.onTriggerClick.bind(this)),
               (this.register = this.register.bind(this)),
-              (window.TJAY-INTERNATIONAL = window.TJAY-INTERNATIONAL || {}),
-              (window.TJAY-INTERNATIONAL.modalGallery = window.TJAY-INTERNATIONAL.modalGallery || []),
-              window.TJAY-INTERNATIONAL.modalGallery.forEach(this.register),
+              (window.DANWOOD = window.DANWOOD || {}),
+              (window.DANWOOD.modalGallery = window.DANWOOD.modalGallery || []),
+              window.DANWOOD.modalGallery.forEach(this.register),
               this.attachTriggers(window.document.body);
           }
           var t, n;
@@ -47051,7 +47051,7 @@
           );
         })(),
         ir = new rr(sn);
-      window.TJAY-INTERNATIONAL.modalGallery = ir;
+      window.DANWOOD.modalGallery = ir;
       var or = "-is-active",
         ar = "cookies-accepted",
         sr = {
@@ -56701,7 +56701,7 @@
                     e.blob().then(function (e) {
                       var t = n.window.document.createElement("a");
                       (t.href = n.window.URL.createObjectURL(e)),
-                        (t.download = "tjayinternational-catalog.pdf"),
+                        (t.download = "danwood-catalog.pdf"),
                         n.window.document.body.appendChild(t),
                         t.click(),
                         n.window.document.body.removeChild(t);
